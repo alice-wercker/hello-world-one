@@ -5,6 +5,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World at 2018-10-26 09:39:14.565053952 +0000 UTC m=+2.461413721")
+	fmt.Println("Hello World at 2018-10-26 09:42:39.190199911 +0000 UTC m=+2.165317768")
 }
 
